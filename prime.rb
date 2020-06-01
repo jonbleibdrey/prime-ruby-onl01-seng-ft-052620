@@ -6,7 +6,8 @@ def prime?(num)
     return false
   elsif num < 0
     num = -num
-  elsif num ==1
+  end
+  if num == 1
     return false
   end
 (2..(num - 1)).each do |n|
