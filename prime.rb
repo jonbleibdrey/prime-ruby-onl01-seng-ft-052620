@@ -8,26 +8,3 @@ def prime?(num)
   true
 end
 
-#   if p(2..4).any?{|n|5%n==0}
-#     puts "true"
-#   else
-#     puts "false"
-#   end
-# end
-
-
-
-# def prime?(integer)
-#   i = 2
-#   while i < integer
-#   return false if integer <= 1
-#     i += 1
-#     end
-#     true
-#   end
-#   if prime.
-#     puts "true"
-#   else
-#     puts "false"
-#   end
-# end
